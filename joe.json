@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BAMA",
-          "prestige" : "95",
+          "prestige" : "89",
           "state" : "Alabama",
           "name" : "Alabama",
           "headCoach" : {
@@ -234,14 +234,14 @@
         }
       ],
       "confFullName" : "Southeastern",
-      "confPrestige" : "90",
+      "confPrestige" : "85",
       "confName" : "SEC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "OSU",
-          "prestige" : "93",
+          "prestige" : "88",
           "state" : "Ohio",
           "name" : "Ohio State",
           "headCoach" : {
@@ -478,7 +478,7 @@
       "confTeams" : [
         {
           "abbreviation" : "OU",
-          "prestige" : "91",
+          "prestige" : "88",
           "state" : "Oklahoma",
           "name" : "Oklahoma",
           "headCoach" : {
@@ -715,7 +715,7 @@
       "confTeams" : [
         {
           "abbreviation" : "USC",
-          "prestige" : "86",
+          "prestige" : "83",
           "state" : "California",
           "name" : "Southern Cal",
           "headCoach" : {
@@ -830,7 +830,7 @@
         },
         {
           "abbreviation" : "ASU",
-          "prestige" : "99",
+          "prestige" : "100",
           "state" : "Arizona",
           "name" : "Arizona St",
           "headCoach" : {
@@ -945,7 +945,7 @@
         }
       ],
       "confFullName" : "Pac 10",
-      "confPrestige" : "81",
+      "confPrestige" : "99",
       "confName" : "PAC10"
     },
     {
