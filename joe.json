@@ -708,14 +708,14 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "83",
+      "confPrestige" : "66",
       "confName" : "B12"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "USC",
-          "prestige" : "83",
+          "prestige" : "55",
           "state" : "California",
           "name" : "Southern Cal",
           "headCoach" : {
@@ -738,7 +738,7 @@
         },
         {
           "abbreviation" : "ORE",
-          "prestige" : "82",
+          "prestige" : "55",
           "state" : "Oregon",
           "name" : "Oregon",
           "headCoach" : {
@@ -830,7 +830,7 @@
         },
         {
           "abbreviation" : "ASU",
-          "prestige" : "100",
+          "prestige" : "150",
           "state" : "Arizona",
           "name" : "Arizona St",
           "headCoach" : {
@@ -838,14 +838,14 @@
             "startYear" : "2019",
             "age" : "32",
             "ratOff" : "99",
-            "cumulativePrestige" : "99",
+            "cumulativePrestige" : "250",
             "ratDef" : "99",
             "homeState" : "Mississippi",
-            "ratPot" : "99",
-            "ratTalent" : "99",
-            "baselinePrestige" : "99",
+            "ratPot" : "100",
+            "ratTalent" : "150",
+            "baselinePrestige" : "150",
             "ratDiscipline" : "99",
-            "ratOvr" : "99",
+            "ratOvr" : "150",
             "name" : "Joe Hawkins",
             "contractYear" : "1"
           },
@@ -952,7 +952,7 @@
       "confTeams" : [
         {
           "abbreviation" : "ND",
-          "prestige" : "88",
+          "prestige" : "66",
           "state" : "Indiana",
           "name" : "Notre Dame",
           "headCoach" : {
@@ -975,7 +975,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "86",
+          "prestige" : "66",
           "state" : "Florida",
           "name" : "Miami",
           "headCoach" : {
@@ -986,7 +986,7 @@
             "cumulativePrestige" : "25",
             "ratDef" : "93",
             "homeState" : "Kentucky",
-            "ratPot" : "95",
+            "ratPot" : "66",
             "ratTalent" : "95",
             "baselinePrestige" : "89",
             "ratDiscipline" : "89",
