@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BAMA",
-          "prestige" : "89",
+          "prestige" : "0",
           "state" : "Alabama",
           "name" : "Alabama",
           "headCoach" : {
@@ -27,7 +27,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "84",
+          "prestige" : "0",
           "state" : "Tennessee",
           "name" : "Tennessee",
           "headCoach" : {
@@ -50,7 +50,7 @@
         },
         {
           "abbreviation" : "UF",
-          "prestige" : "83",
+          "prestige" : "0",
           "state" : "Florida",
           "name" : "Florida",
           "headCoach" : {
@@ -73,7 +73,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "82",
+          "prestige" : "0",
           "state" : "Alabama",
           "name" : "Auburn",
           "headCoach" : {
@@ -96,7 +96,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "82",
+          "prestige" : "0",
           "state" : "Louisiana",
           "name" : "Louisiana State",
           "headCoach" : {
@@ -119,7 +119,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "81",
+          "prestige" : "0",
           "state" : "Georgia",
           "name" : "Georgia",
           "headCoach" : {
@@ -142,7 +142,7 @@
         },
         {
           "abbreviation" : "ARK",
-          "prestige" : "79",
+          "prestige" : "0",
           "state" : "Arkansas",
           "name" : "Arkansas",
           "headCoach" : {
@@ -165,7 +165,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "76",
+          "prestige" : "0",
           "state" : "Mississippi",
           "name" : "Ole Miss",
           "headCoach" : {
@@ -234,14 +234,14 @@
         }
       ],
       "confFullName" : "Southeastern",
-      "confPrestige" : "85",
+      "confPrestige" : "0",
       "confName" : "SEC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "OSU",
-          "prestige" : "88",
+          "prestige" : "55",
           "state" : "Ohio",
           "name" : "Ohio State",
           "headCoach" : {
@@ -264,7 +264,7 @@
         },
         {
           "abbreviation" : "MICH",
-          "prestige" : "86",
+          "prestige" : "55",
           "state" : "Michigan",
           "name" : "Michigan",
           "headCoach" : {
@@ -287,7 +287,7 @@
         },
         {
           "abbreviation" : "MSU",
-          "prestige" : "80",
+          "prestige" : "55",
           "state" : "Michigan",
           "name" : "Michigan St",
           "headCoach" : {
@@ -471,14 +471,14 @@
         }
       ],
       "confFullName" : "Big Ten",
-      "confPrestige" : "82",
+      "confPrestige" : "55",
       "confName" : "B1G"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "OU",
-          "prestige" : "88",
+          "prestige" : "66",
           "state" : "Oklahoma",
           "name" : "Oklahoma",
           "headCoach" : {
@@ -501,7 +501,7 @@
         },
         {
           "abbreviation" : "TEX",
-          "prestige" : "85",
+          "prestige" : "66",
           "state" : "Texas",
           "name" : "Texas",
           "headCoach" : {
@@ -524,7 +524,7 @@
         },
         {
           "abbreviation" : "NEB",
-          "prestige" : "85",
+          "prestige" : "55",
           "state" : "Nebraska",
           "name" : "Nebraska",
           "headCoach" : {
