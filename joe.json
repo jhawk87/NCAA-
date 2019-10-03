@@ -761,7 +761,7 @@
         },
         {
           "abbreviation" : "UCLA",
-          "prestige" : "81",
+          "prestige" : "0",
           "state" : "California",
           "name" : "UCLA",
           "headCoach" : {
@@ -998,7 +998,7 @@
         },
         {
           "abbreviation" : "PSU",
-          "prestige" : "84",
+          "prestige" : "0",
           "state" : "Pennsylvania",
           "name" : "Penn State",
           "headCoach" : {
@@ -1189,7 +1189,7 @@
       "confTeams" : [
         {
           "abbreviation" : "FSU",
-          "prestige" : "88",
+          "prestige" : "0",
           "state" : "Florida",
           "name" : "Florida State",
           "headCoach" : {
@@ -1212,7 +1212,7 @@
         },
         {
           "abbreviation" : "CLEM",
-          "prestige" : "85",
+          "prestige" : "0",
           "state" : "South Carolina",
           "name" : "Clemson",
           "headCoach" : {
